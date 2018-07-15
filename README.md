@@ -1,2 +1,2 @@
-# My-practice
-1. 一些平常的练习
+# Deep learning
+## 一些平时做的项目
